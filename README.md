@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+author:  Gene Dunn
+company:  Harland Clarke Holdings
